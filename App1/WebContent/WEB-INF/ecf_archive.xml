@@ -10,7 +10,7 @@
          <Property Name="ControlAfterSubr">0</Property>
          <Collection Name="Parameters" Type="Parameters">
             <SubRecord>
-               <Property Name="Name">$EDW_DATABASE</Property>
+               <Property Name="Name">$EDW_DATABASERishi</Property>
                <Property Name="Prompt">EDW Database</Property>
                <Property Name="Default">$PROJDEF</Property>
                <Property Name="ParamType">0</Property>
